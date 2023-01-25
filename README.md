@@ -16,16 +16,15 @@ ___
 ___
 
 >**개발환경**
+- 언어
+  - Java 11
 - 프론트엔드
-  - Flutter(ver 3.3)
+  - Bootstrap 5.2.2
+  - JavaScript 5
 - 백엔드 
-  - Spring boot(ver 3.0.1)
-  - R(ver 4.2.2)
-  - Firebase
-    - Firebase_core(ver 2.4.1)
-    - Firebase_cloud(ver 4.3.0)
-    - Firebase_auth(ver 4.2.5)
-  - MySQL(ver 8.0ce)
+  - JSP MVC Pattern
+  - eclipse IDE 4.25.0
+  - MySQL(ver 8.0.29)
   - Apache Tomcat(ver 9.0)
 
 ___
