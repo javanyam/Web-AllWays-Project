@@ -9,9 +9,7 @@ ___
 
 <h2>List</h2>
 1. 개발환경 <br>
-2. R 분석요약 <br>
-3. Flutter 기능구현 <br>
-4. Spring Rest Controller
+2. 구현기능 <br>
   
 ___
 
@@ -29,7 +27,7 @@ ___
 
 ___
 
-> **R** [분석](https://github.com/javanyam/R_Flutter-Project/blob/main/03.chasajo_Portfolio/R_분석요약.pdf)
+> **사용 API** []()
 - DATA 컬럼소개 및 모델 선정
 - Column 정제
   - Price & Year 
