@@ -28,15 +28,6 @@ ___
 ___
 
 > **사용 API** []()
-- DATA 컬럼소개 및 모델 선정
-- Column 정제
-  - Price & Year 
-  - Transmission Column 
-  - Fuel Type & Tax Column
-  - Mileage Column
-  - Engine Size
-- K means & 군집분포
-- 브랜드 모델 별 예측모델 표
 
 ___
 
