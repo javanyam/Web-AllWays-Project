@@ -26,26 +26,3 @@ ___
   - Apache Tomcat(ver 9.0)
 
 ___
-
-> **사용 API** []()
-
-___
-
-> **Flutter** [기능](https://github.com/javanyam/R_Flutter-Project/blob/main/03.chasajo_Portfolio/Flutter.pdf)
-- System Flow Diagram
-- 기능구현
-  - Splash 효과
-  - 로그인
-  - 회원가입
-  - 비밀번호 찾기
-  - 중고차 예측값 입력 및 조회
-  - 게시판
-  - 채팅
-  - 다크모드
-___
-
-> **Spring boot** [기능](https://github.com/javanyam/R_Flutter-Project/blob/main/03.chasajo_Portfolio/RESTful%20API.pdf)
-- Rest Controller
-- Rconnect
-
-___
